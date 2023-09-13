@@ -15,6 +15,6 @@ This fork is Arduino_ The fork of GFX-1.3.6 has been added to this fork for the 
 
 <br />
 
-### More examples added in 'more_examples'
-###  For other information, please consult [the original post](./README2.md)
+#### More examples added in 'more_examples'
+####  For other information, please consult [the original post](./README2.md)
 
