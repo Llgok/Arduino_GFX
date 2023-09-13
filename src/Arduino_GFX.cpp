@@ -2895,3 +2895,23 @@ void Arduino_GFX::displayOn()
 void Arduino_GFX::displayOff()
 {
 }
+
+/**
+ * @brief Display screen brightness setting
+ * @param brightness :0-255
+ * @return 
+ * @Date 2023-09-11 11:27:04
+ */
+void Arduino_GFX::Display_Brightness(uint8_t brightness)
+{
+}
+
+/**
+ * @brief Set the strong contrast of the display screen (Sunlight Readability Enhancement)
+ * @param Contrast
+ * @return 
+ * @Date 2023-09-11 14:14:56
+ */
+void Arduino_GFX::SetContrast(uint8_t Contrast)
+{
+}

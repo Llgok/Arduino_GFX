@@ -5,8 +5,8 @@
 #if defined(ESP32)
 #include <driver/spi_master.h>
 
-#define ESP32QSPI_MAX_PIXELS_AT_ONCE 1024
-#define QSPI_FREQUENCY 80000000
+#define ESP32QSPI_MAX_PIXELS_AT_ONCE (0x8000)
+#define QSPI_FREQUENCY 8000000//DO0143FAT01 uses 80MHz at GFX_ During the test, the lines will be disordered, so 8MHz is used
 #define QSPI_SPI_MODE SPI_MODE0
 #define QSPI_SPI_HOST SPI2_HOST
 #define QSPI_DMA_CHANNEL SPI_DMA_CH_AUTO

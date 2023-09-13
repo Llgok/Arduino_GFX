@@ -74,6 +74,7 @@
 #include "display/Arduino_RM67162.h"
 #include "display/Arduino_RGB_Display.h"
 #include "display/Arduino_SEPS525.h"
+#include "display/Arduino_SH8601.h"
 #include "display/Arduino_SSD1283A.h"
 #include "display/Arduino_SSD1331.h"
 #include "display/Arduino_SSD1351.h"

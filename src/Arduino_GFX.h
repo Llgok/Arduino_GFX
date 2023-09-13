@@ -191,6 +191,8 @@ public:
   virtual void invertDisplay(bool i);
   virtual void displayOn();
   virtual void displayOff();
+  virtual void Display_Brightness(uint8_t brightness);
+  virtual void SetContrast(uint8_t Contrast);
 
   // BASIC DRAW API
   // These MAY be overridden by the subclass to provide device-specific
