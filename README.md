@@ -8,7 +8,7 @@ This fork is Arduino_ The fork of GFX-1.3.7 has been added to this fork for the 
 
 # Add the following functions
 
-| Function                                                               | Role                  |
+| Function                                                               | Effects                  |
 | :------------------------------------------------------------: | :------------------------------:| 
 | void Display_Brightness(uint8_t brightness)            | Adjusting display brightness     |
 | void SetContrast(uint8_t Contrast)      | Adjusting Display Contrast(Sunlight Readability Enhancement)     |
