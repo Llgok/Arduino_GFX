@@ -13,9 +13,8 @@ This fork is Arduino_ The fork of GFX-1.3.6 has been added to this fork for the 
 | void Display_Brightness(uint8_t brightness)            | Adjusting display brightness     |
 | void SetContrast(uint8_t Contrast)      | Adjusting Display Contrast(Sunlight Readability Enhancement)     |
 
-# More examples added in 'more_examples'
-
 <br />
 
-### <font color=#708090> For other information, please consult [the original post](./README2.md)</font>
+### More examples added in 'more_examples'
+###  For other information, please consult [the original post](./README2.md)
 
