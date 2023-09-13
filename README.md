@@ -1,6 +1,6 @@
 # Arduino_GFX Add more support for display drivers!
 
-This fork is Arduino_ The fork of GFX-1.3.6 has been added to this fork for the following display drivers：
+This fork is Arduino_ The fork of GFX-1.3.7 has been added to this fork for the following display drivers：
 
 | Screen type       | Driver chip         |  communication protocol   |  
 | :------------------: | :------------------:| :-------------------------------:|   
